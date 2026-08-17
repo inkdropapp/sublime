@@ -1,20 +1,15 @@
 {
   "name": "sublime",
-  "main": "./lib/index",
   "version": "0.1.5",
   "description": "Sublime Text-like keybindings",
-  "keywords": [],
-  "repository": "https://github.com/inkdropapp/inkdrop-sublime",
+  "keywords": [
+    "inkdrop",
+    "keymap",
+    "sublime"
+  ],
   "license": "MIT",
+  "repository": "https://github.com/inkdropapp/sublime",
   "engines": {
-    "inkdrop": "^5.x"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/eslint-parser": "^7.16.3",
-    "@babel/preset-env": "^7.16.4",
-    "eslint": "^8.4.1",
-    "eslint-config-prettier": "^8.3.0",
-    "prettier": "^2.5.1"
+    "inkdrop": "^6.0.0"
   }
 }
