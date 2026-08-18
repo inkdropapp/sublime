@@ -1,7 +1,7 @@
 {
   "name": "sublime",
   "version": "0.1.5",
-  "description": "Sublime Text-like keybindings",
+  "description": "Sublime Text-like keybindings for Inkdrop",
   "keywords": [
     "inkdrop",
     "keymap",
@@ -9,7 +9,8 @@
   ],
   "license": "MIT",
   "repository": "https://github.com/inkdropapp/sublime",
+  "author": "Takuya Matsuyama <t@inkdrop.app>",
   "engines": {
-    "inkdrop": "^6.0.0"
+    "inkdrop": "^6.1.0"
   }
 }
