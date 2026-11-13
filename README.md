@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [inkdropapp/plugins](https://github.com/inkdropapp/plugins): [`packages/sublime`](https://github.com/inkdropapp/plugins/tree/main/packages/sublime). It is archived and read-only; please open issues and pull requests there.
+
 # Sublime Text keybindings plugin for Inkdrop
 
 Provides Sublime Text-like keybindings for Inkdrop's editor.
